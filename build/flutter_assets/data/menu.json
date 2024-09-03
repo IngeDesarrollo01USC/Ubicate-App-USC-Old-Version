@@ -1,0 +1,360 @@
+{
+    "facultades": [
+        {
+            "icon": "flask",
+            "title": "Ciencias Básicas",
+            "color": "ciencias-basicas"
+        },
+        {
+            "icon": "chartLine",
+            "title": "Ciencias Económicas y Empresariales",
+            "color": "ciencias-economicas"
+        },
+        {
+            "icon": "comments",
+            "title": "Comunicación y Publicidad",
+            "color": "comunicacion"
+        },
+        {
+            "icon": "balanceScale",
+            "title": "Derecho",
+            "color": "derecho"
+        },
+        {
+            "icon": "bookReader",
+            "title": "Educación",
+            "color": "educacion"
+        },
+        {
+            "icon": "cogs",
+            "title": "Ingeniería",
+            "color": "ingenieria"
+        },
+        {
+            "icon": "heartbeat",
+            "title": "Salud",
+            "color": "salud"
+        }
+    ],
+    "bloques": [
+        {
+            "icon": "userTie",
+            "title": "Bloque 1 - Los Fundadores",
+            "name": "B1",
+            "color": "black",
+            "image_path": "bloque_1.jpg",
+            "latitude": 0.0010,
+            "longitude": 0.22,
+            "floors": [
+                {
+                    "floor": "Piso 1.",
+                    "items": [
+                        "Instituto de Idiomas"
+                    ]
+                },
+                {
+                    "floor": "Piso 2.",
+                    "items": [
+                        "Facultad de Salud"
+                    ]
+                },
+                {
+                    "floor": "Piso 3.",
+                    "items": [
+                        "Facultad de Ingeniería"
+                    ]
+                },
+                {
+                    "floor": "Piso 4.",
+                    "items": [
+                        "Facultad de Comunicación y Publicidad"
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "building",
+            "title": "Bloque 2 - Los Egresados",
+            "name": "B2",
+            "color": "black",
+            "image_path": "bloque_2.1.JPG",
+            "latitude": -0.007,
+            "longitude": 0.000,
+            "floors": [
+                {
+                    "floor": "Piso 1.",
+                    "items": [
+                        "Facultad de Derecho",
+                        "Facultad de Educación",
+                        "Facultad de Ciencias Económicas y Empresariales"
+                    ]
+                },
+                {
+                    "floor": "Piso 2.",
+                    "items": [
+                        "Oficina de Servicios Generales"
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "briefcase",
+            "title": "Bloque 3 - Los Trabajadores",
+            "name": "B3",
+            "color": "brown",
+            "image_path": "bloque_3.JPG",
+            "latitude": -0.006,
+            "longitude": 0.103,
+            "floors": [
+                {
+                    "floor": "Piso 1.",
+                    "items": [
+                        "Departamento Financiero"
+                    ]
+                },
+                {
+                    "floor": "Piso 2.",
+                    "items": [
+                        "Biblioteca Santiago Cadena Copete"
+                    ]
+                },
+                {
+                    "floor": "Piso 3.",
+                    "items": [
+                        "Rectoria"
+                    ]
+                },
+                {
+                    "floor": "Piso 4.",
+                    "items": [
+                        "Auditorio Estanislao Zuleta"
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "microscope",
+            "title": "Bloque 4 - Laboratorios",
+            "name": "B4",
+            "color": "teal",
+            "image_path": "bloque_4.JPG",
+            "latitude": 0.0001,
+            "longitude": 0.022,
+            "floors": [
+                {
+                    "floor": "Piso 1.",
+                    "items": [
+                        "Laboratorios"
+                    ]
+                },
+                {
+                    "floor": "Piso 2.",
+                    "items": [
+                        "Clínica Odontológica",
+                        "Hospital Simulado"
+                    ]
+                },
+                {
+                    "floor": "Piso 3.",
+                    "items": [
+                        "Auditorio Pedro Elias Serrano"
+                    ]
+                },
+                {
+                    "floor": "Piso 4.",
+                    "items": [
+                        "Emisora USC",
+                        "Canal USC",
+                        "Teusaca"
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "handHoldingHeart",
+            "title": "Bloque 5 - Bienestar Universitario",
+            "name": "B5",
+            "image_path": "bloque_5.JPG",
+            "latitude": 0.003,
+            "longitude": 0.045,
+            "color": "green"
+        },
+        {
+            "icon": "userGraduate",
+            "title": "Bloque 6 - Los Estudiantes",
+            "name": "B6",
+            "image_path": "bloque_6.JPG",
+            "latitude": 0.000,
+            "longitude": 0.116,
+            "color": "institutional"
+        },
+        {
+            "icon": "chalkboardTeacher",
+            "title": "Bloque 7 - Los Profesores",
+            "name": "B7",
+            "image_path": "bloque_7.JPG",
+            "latitude": 0.006,
+            "longitude": -0.022,
+            "color": "deepPurple",
+            "floors": [
+                {
+                    "floor": "Piso 1.",
+                    "items": [
+                        "Centro de Escritura, Lectura y Oralidad Académica (CELOA)"
+                    ]
+                },
+                {
+                    "floor": "Piso 2.",
+                    "items": [
+                        "Sala de Profesores"
+                    ]
+                },
+                {
+                    "floor": "Piso 3.",
+                    "items": [
+                        "En Construcción"
+                    ]
+                },
+                {
+                    "floor": "Piso 4.",
+                    "items": [
+                        "Gestión de la Calidad"
+                    ]
+                },
+                {
+                    "floor": "Piso 5.",
+                    "items": [
+                        "Dirección General de Investigación (DGI)",
+                        "Hemiciclo Consejo Superior Los Fundadores"
+                    ]
+                },
+                {
+                    "floor": "Piso 6.",
+                    "items": [
+                        "Sala de Investigación Docente"
+                    ]
+                }
+            ]
+        },
+        {
+            "icon": "graduate",
+            "title": "Bloque 8 - Posgrados",
+            "name": "B8",
+            "image_path": "bloque_8.JPG",
+            "latitude": 0.003,
+            "longitude": -0.015,
+            "color": "educacion"
+        }
+    ],
+    "comunes": [ 
+        {
+            "icon": "fileSignature",
+            "title": "Admisiones",
+            "name": "Admi",
+            "image_path": "admisiones.JPG",
+            "latitude": 0.000,
+            "longitude": -0.018,
+            "color": "black"
+        },
+        {
+            "icon": "houseUser",
+            "title": "Aula máxima",
+            "name": "AulaMaxima",
+            "image_path": "aulaMaxima.JPG",
+            "latitude": 0.0002,
+            "longitude": -0.0025,
+            "color": "red"
+        },
+        {
+            "icon": "running",
+            "title": "Coliseo",
+            "name": "Coliseo",
+            "image_path": "coliseo.JPG",
+            "latitude": 0.000,
+            "longitude": -0.058,
+            "color": "deepPurple"
+        },
+        {
+            "icon": "monument",
+            "title": "Plazoleta Central \"Los Sabios\"",
+            "name": "Sabios",
+            "image_path": "sabios.JPG",
+            "latitude": 0.000,
+            "longitude": 0.000,
+            "color": "blueGrey"
+        },
+        {
+            "icon": "water",
+            "title": "Lago",
+            "name": "Lago",
+            "image_path": "lago.JPG",
+            "latitude": -0.005,
+            "longitude": -0.123,
+            "color": "blue"
+        },
+        {
+            "icon": "store",
+            "title": "Tienda Santiaguina",
+            "name": "Tienda",
+            "image_path": "tienda.JPG",
+            "latitude": 0.002,
+            "longitude": 0.127,
+            "color": "institutional"
+        },
+        {
+            "icon": "church",
+            "title": "Capilla",
+            "name": "Capilla",
+            "image_path": "capilla.JPG",
+            "latitude": -0.008,
+            "longitude": 0.116,
+            "color": "brown"
+        },
+        {
+            "icon": "swimmingPool",
+            "title": "Piscinas",
+            "name": "Piscinas",
+            "image_path": "piscina.JPG",
+            "latitude": -0.003,
+            "longitude": -0.060,
+            "color": "cyan"
+        },
+        {
+            "icon": "volleyballBall",
+            "title": "Canchas Vóleibol de Playa",
+            "name": "Voleibol",
+            "image_path": "voleibol.JPG",
+            "latitude": -0.005,
+            "longitude": 0.119,
+            "color": "sand"
+        },
+        {
+            "icon": "basketballBall",
+            "title": "Cancha de Baloncesto",
+            "name": "Coliseo",
+            "image_path": "baloncesto.JPG",
+            "latitude": -0.009,
+            "longitude": 0.000,
+            "color": "deepOrange"
+        },
+        {
+            "icon": "solidFutbol",
+            "title": "Canchas de Fútbol",
+            "name": "Canchas",
+            "image_path": "cancha.JPG",
+            "latitude": -0.004,
+            "longitude": 0.133,
+            "color": "black"
+        },
+        {
+            "icon": "school",
+            "title": "Jardín Infantil Santiaguitos",
+            "name": "Santiaguitos",
+            "image_path": "santiaguitos.JPG",
+            "latitude": -0.007,
+            "longitude": -0.003,
+            "color": "orange"
+        }
+
+    ]
+}
